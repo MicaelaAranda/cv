@@ -1,0 +1,96 @@
+
+#headers{
+    background-color: darksalmon;
+    padding: 15px;
+
+}
+
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.datos_generales{
+    display: flex;
+}
+
+#contacto{
+    padding: 20px;
+}
+
+#escondercontact{
+    padding: 15px;
+}
+
+.esconder_contacto{
+    display: none;
+}
+
+.aparecer{
+    display: block;
+}
+
+#estudios{
+    padding: 20px;
+}
+
+.esconder_estudios{
+    display: none;
+}
+
+.aparecer_estudios{
+    display: block;
+}
+
+#esconderestudios{
+    padding: 15px;
+}
+
+#experiencia{
+    padding: 20px;
+}
+
+#esconderExperiencia{
+    padding: 15px;
+}
+
+.esconder_experiencia{
+    display: none;
+}
+
+.aparecer_experiencia{
+    display: block;
+}
+
+.footer{
+    position: absolute; 
+    left:0px; 
+    bottom:0px; 
+    height: 50px; 
+    width:100%;
+    background-color: darksalmon;
+}
+
+.logo_facebook{
+    bottom: 0px;
+    position: absolute;
+    padding: 6px;
+    display: flow-root;
+    right: 0px;
+
+}
+
+.logo_instagram{
+    bottom: 0px;
+    position: absolute;
+    padding: 6px;
+    display: flow-root;
+    right: 120px;
+}
+
+.texto{
+    position: absolute;
+    bottom: 0px;
+    padding: 10px;
+}
